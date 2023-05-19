@@ -125,7 +125,7 @@
     {
       "name": "all-moers",
       "format": "csv",
-      "path": "all-moers.csv",
+      "path": "https://storage.openspending.org/all-moers.csv",
       "mediatype": "application/vnd.ms-excel",
       "bytes": 5335666,
       "dialect": {

@@ -117,6 +117,10 @@
   "promise": {},
   "regionCode": "eu",
   "countryCode": "DE",
+  "fiscalPeriod": {
+    "start": "2015-01-01",
+    "end": "2021-12-31"
+  },
   "cityCode": "Moers",
   "title": "Moers All",
   "name": "moers-all",
